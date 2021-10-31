@@ -1,0 +1,5 @@
+Mongodb Commands:
+1.mongo
+2.use database
+3.show collections
+4.db.collectionname.find()
